@@ -1,0 +1,26 @@
+[
+    {
+        "id": 101,
+        "company_name": "Acme Logistics",
+        "contact_name": "Maria Santos",
+        "email": "maria@acme-logistics.test",
+        "requested_plan_code": "growth",
+        "status": "approved"
+    },
+    {
+        "id": 102,
+        "company_name": "Northwind Retail",
+        "contact_name": "Andre Cruz",
+        "email": "andre@northwind-retail.test",
+        "requested_plan_code": "starter",
+        "status": "pending"
+    },
+    {
+        "id": 103,
+        "company_name": "Blue Harbor Foods",
+        "contact_name": "Lea Ramos",
+        "email": "lea@blueharbor.test",
+        "requested_plan_code": "enterprise",
+        "status": "approved"
+    }
+]
